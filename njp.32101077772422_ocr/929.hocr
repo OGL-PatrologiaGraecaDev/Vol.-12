@@ -1,0 +1,14 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/12/njp.32101077772422/929.png"; bbox 0 0 1906 3051; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 677 142 1082 183">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 677 142 1082 183">
+     <span class='ocr_line' id='line_1_1' title="bbox 677 142 1082 183; baseline -0.017 0"><span class='ocrx_word' id='word_1_1' title='bbox 677 145 934 183; x_wconf 82' lang='lat' dir='ltr'><strong>PRINCETON</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 972 142 1082 179; x_wconf 80' lang='lat' dir='ltr'><strong>UNIV</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 748 352 1130 406">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 748 352 1130 406">
+     <span class='ocr_line' id='line_1_2' title="bbox 748 352 1130 406; baseline 0 -20"><span class='ocrx_word' id='word_1_3' title='bbox 748 352 867 405; x_wconf 13' lang='lat'><strong>3721701</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 885 353 1130 406; x_wconf 13' lang='lat'><strong>707777742422</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
